@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  FindMisclassifiedLaz.cpp
+  laszip_api.c
+  Generating code
+  All 839 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FindMisclassifiedLaz.vcxproj -> C:\Users\xenawarriorprincess\findmisclassifiedlaz\FindMisclassifiedLaz\Release\FindMisclassifiedLaz.exe
+  FindMisclassifiedLaz.vcxproj -> C:\Users\xenawarriorprincess\findmisclassifiedlaz\FindMisclassifiedLaz\Release\FindMisclassifiedLaz.pdb (Full PDB)
